@@ -5,6 +5,7 @@ public class GitExample {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is just to test in office");
+		System.out.println("These changes will be merged in branch");
 	}
 
 }
